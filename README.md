@@ -1,5 +1,5 @@
 # Web3-Music-Streaming-Web-App
-mozimusic.app
+Link: mozimusic.app
 
 Tech Stack: 
 - React
