@@ -1,2 +1,2 @@
-# React-NodeJS-WebApp
-mozimusic.app. Landing page for a web3 music streaming app - Built with React, NodeJS, Javascript/Typescript
+# Web3-Music-Streaming-Web-App
+mozimusic.app. Tech Stack: React, NodeJS, Firebase, Javascript/Typescript
