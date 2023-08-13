@@ -1,4 +1,4 @@
-# Web3-Music-Streaming-Web-App
+# ReactNodeJS-Music-Streaming-WebApp
 Link: mozimusic.app
 
 Tech Stack: 
